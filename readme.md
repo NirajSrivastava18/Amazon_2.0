@@ -1,4 +1,4 @@
-#Amazon 2.0
+# Amazon 2.0
 
 Build Amazon 2.0 using tailwind CSS
 
